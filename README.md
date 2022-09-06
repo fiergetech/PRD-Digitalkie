@@ -13,7 +13,7 @@
 # Overview
 This web platform portal is used by organization admin to monitor their user; collect recording, realtime user location, SOS alert location, create new channel, create new user.
 
-![image](uploads/ef2da5bcd6aafee29534d32315a6ecb3/image.png)
+![login dashboard digitalkie](https://user-images.githubusercontent.com/72726406/188591197-fbeea93f-e0c7-4740-9e23-71e769f59579.png)
 
 # OKR Overview: Objective and Key Results
 # Customer's Problems
