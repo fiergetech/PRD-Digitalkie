@@ -60,7 +60,7 @@ Official from internal Gamatechno that have all permissions from creating/adding
 # Q&A
 # Quick Links
 
-- Features prioritazion and checklist on Spreadsheet
+- Digitalkie Roadmap & Timeline
 [Features prioritazion and checklist on Spreadsheet](https://docs.google.com/spreadsheets/d/1As3XH3qWr2EMyD8NSAKi2SwqP8k660XCT1Msg805TEk/edit#gid=497194347)
 
 - User Flow & Wireframe 
