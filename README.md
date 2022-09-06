@@ -64,7 +64,7 @@ Official from internal Gamatechno that have all permissions from creating/adding
 [Features prioritazion and checklist on Spreadsheet](https://docs.google.com/spreadsheets/d/1As3XH3qWr2EMyD8NSAKi2SwqP8k660XCT1Msg805TEk/edit#gid=497194347)
 
 - User Flow & Wireframe 
-[Wireframe Selengkapnya (Updated on Whimsical)](https://whimsical.com/ngalir-x-pp-infrastruktur-43wSXfi6x9sth2BzdBtTAv)
+[Wireframe Selengkapnya (Updated on Whimsical)](https://whimsical.com/digitalkie-MVmesPENcu7y5xQGz8mcG1)
 
 - UI Design & Protyping
 [UI Design Selengkapnya (Updated on Figma)](https://www.figma.com/file/EPN7VaHyrIfEpFrR8LQPWP/Digitalkie?node-id=0%3A1)
